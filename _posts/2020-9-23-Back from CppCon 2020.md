@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &quot;Back&quot; from CppCon 2020
+title: Back from CppCon 2020
 ---
 
 This year I had the opportunity to assist the CppCon live for my computer chair. 
