@@ -30,8 +30,8 @@ I would like to highlight some of the talks that you will be able to watch on yo
 
 3. `Pipes: How plumbing can make your C++ code more expressive` by Jonathan Boccara
 
-    This video takes the ranges' design and offers an alternative less general but more efficient design. 
-    By going in-depth in this alternative library it helps the viewer to do parallels on how ranges work.
+    This video takes the ranges' design and offers an alternative less-general approach with other advantages. 
+    By going in-depth in this alternative library it showed the inner-workings of a operator-based API like ranges.
 
 4.  `C++20 string formatting library: an overview and use with custom types` by Marc Gregoire
 
