@@ -16,26 +16,31 @@ One of the advantages of the Youtube streams is that I could watch multiple talk
 I would like to highlight some of the talks that you will be able to watch on your own on Youtube as some of them already began to become available.
 
 1. `Building an intuition for composition` by Sy Brand
-    This is a great introduction to some of the C++20 features such as ranges and coroutines and gives a great overview of the new C++20 idiomatic to use and _mix_ algorithms. 
+
+    This is a great introduction to some of the C++20 features such as ranges and coroutines and gives a great overview of the new C++20 idiomatic to use and _mix_ algorithms.
     Plus some overview of what might come in future C++ releases.
 
 2. `Retiring the Singleton pattern: concrete suggestions for what to use instead` by Peter Muldoon
 
     Singletons are simple to write, especially in game projects, as they are quick to write and offer global access to a resource.
-    This video explains why the pattern can create creeping issues in the quality of the code we write (non-testability, hidden dependencies)
+    This video explains why the pattern can create creeping issues in the quality of the code we write (non-testability, hidden dependencies).
     It also offers solutions to improve the pattern while keeping the global accessibility offered by the pattern.
 
 3. `Pipes: How plumbing can make your C++ code more expressive` by Jonathan Boccara
 
-    This video takes the ranges' design and offers an alternative less general but more efficient design. By going in-depth in this alternative library it helps the viewer to do parallels on how ranges work.
+    This video takes the ranges' design and offers an alternative less general but more efficient design. 
+    By going in-depth in this alternative library it helps the viewer to do parallels on how ranges work.
 
 4.  `C++20 string formatting library: an overview and use with custom types` by Marc Gregoire
 
-    A pet peeve of mine; I would love to evolve my debug code from printf formatting to fmtlib or std::format in a near future. The talk is a 30-minutes course on how to use the format syntax and how to expand it.
+    A pet peeve of mine; I would love to evolve my debug code from printf formatting to fmtlib or std::format in a near future. 
+    The talk is a 30-minutes course on how to use the format syntax and how to expand it.
 
 5. `Some things C++ does right` and `The surprising costs of void() (and other Not-Quite-Innocuous evils)` by Patrice Roy
 
-    Both talks by Patrice were formatted similarly, so I put them both here. The first focus on some C++ language foundations that differs from other languages that we (sometimes) need to be remembered about. The other one gives some examples of bad programming practices that we may have been taught to use but isn't as inoffensive as we might think.
+    Both talks by Patrice were formatted similarly, so I put them both here. 
+    The first focus on some C++ language foundations that differs from other languages that we (sometimes) need to be remembered about. 
+    The other one gives some examples of bad programming practices that we may have been taught to use but isn't as inoffensive as we might think.
 
 ## Takeaways
 
