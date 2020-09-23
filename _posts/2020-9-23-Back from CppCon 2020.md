@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Back" from CppCon 2020
+title: \"Back\" from CppCon 2020
 ---
 
 ## 2020
