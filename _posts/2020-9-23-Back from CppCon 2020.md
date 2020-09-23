@@ -1,11 +1,13 @@
 ---
 layout: post
-title: \"Back\" from CppCon 2020
+title: &quot;Back&quot; from CppCon 2020
 ---
+
+This year I had the opportunity to assist the CppCon live for my computer chair. 
 
 ## 2020
 
-This year I had the opportunity to assist the CppCon live for my computer chair. The CppCon organization team did a tour de force by reorienting the conference via the Remo platform supported by Youtube video streams. The Remo platform can be flawed, but it was a functional abstraction of a normal conference floor with rooms for talks, a "Hallway Track" room for conversation with up to 8 people around virtual tables, and even an Expo Hall for sponsors... that I didn't take time to visit.
+The CppCon organization team did a tour de force by reorienting the conference via the Remo platform supported by Youtube video streams. The Remo platform can be flawed, but it was a functional abstraction of a normal conference floor with rooms for talks, a "Hallway Track" room for conversation with up to 8 people around virtual tables, and even an Expo Hall for sponsors... that I didn't take time to visit.
 
 During a presentation, attendees could discuss and silently applaud in the room/track's General Chat and ask questions that could be upvoted by other attendees à la Stack Overflow.
 
