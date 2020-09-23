@@ -46,6 +46,6 @@ I would like to highlight some of the talks that you will be able to watch on yo
 
 ## Takeaways
 
-As it was a Standard release year, a lot of the talks' subjects focused on the newest C++20 features. I might be biased, but I find there was less focus on the evolution of the language than other years.
+As it was a C++ Standard release year, a lot of the talks' subjects focused on the newest C++20 features. I might be biased, but I find there was less focus on the evolution of the language than other years.
 
 As it was my first CppCon, I was really impressed to meet some of the most vocal members of the C++ community and I was also pleased to discuss with other attendees from all around the world.
