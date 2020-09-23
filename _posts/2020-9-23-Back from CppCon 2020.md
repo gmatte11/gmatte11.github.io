@@ -19,7 +19,7 @@ I would like to highlight some of the talks that you will be able to watch on yo
 
 1. `Building an intuition for composition` by Sy Brand
 
-    This is a great introduction to some of the C++20 features such as ranges and coroutines and gives a great overview of the new C++20 idiomatic to use and _mix_ algorithms.
+    This is a great introduction to some of the C++20 features such as ranges and coroutines and gives a great overview of the new C++20 idiomatic way to use and _mix_ algorithms.
     Plus some overview of what might come in future C++ releases.
 
 2. `Retiring the Singleton pattern: concrete suggestions for what to use instead` by Peter Muldoon
