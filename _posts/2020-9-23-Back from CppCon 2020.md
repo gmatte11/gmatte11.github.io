@@ -3,7 +3,7 @@ layout: post
 title: Back from CppCon 2020
 ---
 
-This year I had the opportunity to assist the CppCon live for my computer chair. 
+This year I had the opportunity to assist the CppCon live from my computer chair. 
 
 ## 2020
 
